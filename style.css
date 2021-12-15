@@ -55,20 +55,20 @@ header{
 
 /* Sezione gialla */
 section.yellow{
-    max-width: 100%;
+    max-width: 1600px;
     min-height: 508px;
 }
 
 /* Sezione azzurro scuro */
 section.blu{
-    max-width: 100%;
+    max-width: 1600px;
     min-height: 672px;
 }
 
 /* Sidebar */
 .sidebar-header{
-    max-width: 100%;
-    min-height: 86px;
+    width: 100%;
+    height: 86px;
 }
 
 /* Contenuto sotto sidebar */
@@ -100,7 +100,7 @@ section.blu{
 
 /* Footer */
 footer{
-    max-width: 100%;
+    max-width: 1600px;
     min-height: 60px;
     margin-top: 10px;
     margin-bottom: 10px;
