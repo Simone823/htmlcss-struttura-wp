@@ -77,18 +77,20 @@ section.blu{
     margin: 25px 0;
 }
 
+.content_under_sidebar [class^=side] {
+    float: left;
+}
+
 /* Sidebar sinistra e destra */
 .side-sx, .side-dx{
     width: 25%;
     min-height: 537px;
-    float: left;
 }
 
 /* Sidebar centrale */
 .side-center{
     width: calc(100% - 25% - 25% - 40px);
     min-height: 537px;
-    float: left;
     margin: 0 20px;
 }
 
